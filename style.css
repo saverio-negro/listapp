@@ -22,8 +22,8 @@ body {
     grid-template-columns: 1fr;
     justify-content: center;
     background-color: #333333;
-    width: 400px;
-    height: 400px;
+    width: 700px;
+    height: 700px;
 }
 
 .list-title {
