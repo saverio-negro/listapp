@@ -22,8 +22,8 @@ body {
     grid-template-columns: 1fr;
     justify-content: center;
     background-color: #333333;
-    width: 80%;
-    height: 100vh;
+    width: 85%;
+    height: 80vh;
 }
 
 .list-title {
@@ -52,10 +52,7 @@ button {
 @media only screen and (max-width: 600px){
 
     .list-container {
-        display: grid;
-        grid-template-columns: 1fr;
-        justify-content: center;
-        background-color: #333333;
+        
         width: 100%;
         height: 100vh;
     }
