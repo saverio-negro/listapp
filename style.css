@@ -18,10 +18,12 @@ body {
 }
 
 .list-container {
+     
     display: grid;
     grid-template-columns: 1fr;
     justify-content: center;
     background-color: #333333;
+    margin: 30px;
     width: 90%;
     height: 80vh;
 }
@@ -36,6 +38,7 @@ body {
 .list-content {
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 20px;
 }
 
